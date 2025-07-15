@@ -1,7 +1,4 @@
 # prittyscan
-prittyscan is a Python-based Nmap wrapper that presents network scan results in a clear, colorful terminal interface with support for NSE scripts and export to JSON/CSV.
-
-# prittyscan
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)  
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
